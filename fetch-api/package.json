@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.19.3",
+    "babel-loader": "^8.2.5",
+    "core-js": "^3.25.3",
+    "webpack": "^5.74.0"
+  }
+}

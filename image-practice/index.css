@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    background-color: rgb(225, 238, 238);
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(37, 43, 51); 
+}
+
+.profile{
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(90deg, rgba(14, 15, 17, 0.98),rgba(207, 196, 34,0)),url("high-rise-window-cleaning.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+}
+.heading{
+    width: 600px;
+    padding-left: 50px;
+    padding-top: 220px;
+}
+
+.content{
+    color: rgb(236, 129, 28);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    
+}
+
+.container .year{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+
+}
+.logo{
+    padding-left: 500px;
+    padding-top: 200px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.logo .chiz {
+    padding-bottom: 50px;
+    padding-right: 0px;
+}
+
+.life{
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(to right, rgba(14, 15, 17, 0.98),rgba(207, 196, 34,0)),url("high-rise-window-cleaning.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: aliceblue;
+}

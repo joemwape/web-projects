@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: cadetblue;
+    border-radius: 20%;
+    padding: 0.3%;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.container{
+    background-color: rgb(35, 40, 54);
+    padding: 30px;
+    color: aliceblue;
+}
+.content h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.mysong{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.content .tut{
+    text-align: center;
+}
+
+.tut{
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content p{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    word-spacing: 4px;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+.vid{
+    display: flex;
+    padding-right: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.vid .videos, .videos2{
+    padding-right: 100px;
+}
+audio{
+    padding-right: 20px;
+}
+.audio,a{
+    display: flex;
+    color: aliceblue;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .vid{
+    padding-bottom: 50px;
+ }
+
+
+ .schl{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 50px;
+ }
+
+ .teb{
+    font-size: 40px;  
+ }
+ 
+ tr{
+   text-indent: 40px;
+ }
+ 
+ .cap{
+    padding: 20px;
+ }
+
+ .forms{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    border-radius: 25px;
+    background-color: blue;
+ }
+
+ .div{
+    padding: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .div input{
+    display: block;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    text-indent: 20px;
+ }
+.lab label{
+   padding-left: 5px;
+   font-size: 25px;
+   padding-top: 10px;
+}
+.lab{
+    padding-bottom: 10px;
+}
+.but{
+    padding-top: 10px;
+}
+
+.but button{
+    display: block;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
